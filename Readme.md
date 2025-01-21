@@ -20,7 +20,6 @@ Backend: Next.js API, Sanity (for content management)
 Deployment: Vercel
 
 Connect with Me on LinkedIn: https://www.linkedin.com/in/maryam-shakeel-5720a12b5/
-GitHub: GitHub Profile
 
 Stay tuned for updates as I continue building this exciting project!
 
